@@ -1,0 +1,16 @@
+body {
+  font-family: Optima, Arial, sans-serif;
+}
+
+h1 {
+  text-align: right;
+}
+
+.intro {
+  background-color: #bee0e5;
+  padding: 10px;
+}
+
+.employer {
+  font-weight: bold;
+}
